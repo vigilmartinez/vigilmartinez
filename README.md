@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vigilmartinez&show_icons=true&theme=radical" alt="Estadísticas" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigilmaartinez&layout=compact&theme=radical" alt="Lenguajes más usados" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vigilmartinez&show_icons=true&theme=radical" alt="Estadísticas" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigilmartinez&layout=compact&theme=radical" alt="Lenguajes más usados" /> </p>
 
 <!--
 **vigilmartinez/vigilmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
