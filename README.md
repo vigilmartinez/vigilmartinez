@@ -11,6 +11,24 @@
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vigilmartinez&show_icons=true&theme=radical" alt="Estadísticas" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigilmartinez&layout=compact&theme=radical" alt="Lenguajes más usados" /> </p>
 
+---
+
+## 🚀 Sobre Mí
+
+```java
+public class SobreMi {
+    public static void main(String[] args) {
+        String formacion = "DAW + Bootcamp Web Developer";
+        String experiencia = "2 años en PwC como Programador";
+        String stack = "Java, JavaScript, React, SQL";
+        String ingles = "C2 Proficiency";
+        
+        System.out.println("Desarrollador con " + experiencia);
+        System.out.println("Especializado en: " + stack);
+        System.out.println("Inglés: " + ingles);
+    }
+}
+
 <!--
 **vigilmartinez/vigilmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
